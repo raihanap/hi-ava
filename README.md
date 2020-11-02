@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Hi Umaa!
+=======
+# Hi Uma!
+>>>>>>> Stashed changes
 I made this for you.
 
 ## <u>Build Setup</u>
