@@ -1,22 +1,12 @@
-export default {
-<<<<<<< Updated upstream
-  nicknames: ["Uma!", "Babe", "Sayang", "Umaakuu", "Cintuu"],
-  greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
-  }
-};
-=======
-    nicknames: ["Umaaachan", "Babe", "Sayangkuuu", "Umakuu"],
+export default { <<
+    << << < Updated upstream
+    nicknames: ["Uma!", "Hey Babe :)", "Ayankkkk", "Umaakuu", "Umaagone :("],
     greetings: {
-        evening: "Good Evening",
-        afternoon: "Good Afternoon",
-        day: "Good Day",
-        morning: "Good Morning",
-        night: "Good Night"
+        evening: "Selamat Malam",
+        afternoon: "Selamat Sore",
+        day: "Good Day! yay",
+        morning: "Selamat Pagiiii",
+        night: "Selamat Bubu >//<"
     }
-};
->>>>>>> Stashed changes
+}; ===
+=== =
