@@ -1,6 +1,7 @@
 export default { <<
-    << << < Updated upstream
-    nicknames: ["Uma!", "Hey Babe :)", "Ayankkkk", "Umaakuu", "Umaagone :("],
+    <<
+    << < Updated upstream
+    nicknames: ["Raihann", "Hi Bitch!", "Fck you!", "cLovenn"],
     greetings: {
         evening: "Selamat Malam",
         afternoon: "Selamat Sore",
@@ -9,4 +10,5 @@ export default { <<
         night: "Selamat Bubu >//<"
     }
 }; ===
-=== =
+===
+=
